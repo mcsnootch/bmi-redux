@@ -33,4 +33,5 @@ class BmiApplication {
         BmiApplication application = new BmiApplication(inputGatherer, userOutput);
         application.run();
     }
+
 }

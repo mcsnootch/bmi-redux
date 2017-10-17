@@ -23,6 +23,5 @@ public class CommandlineQuestionInputGatherer implements QuestionInputGatherer {
         } catch (NumberFormatException nfe) {
             throw new InvalidUserInputException();
         }
-
     }
 }

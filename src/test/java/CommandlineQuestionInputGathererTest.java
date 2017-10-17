@@ -2,7 +2,6 @@ import org.junit.Test;
 
 import java.io.*;
 
-import static java.lang.System.in;
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
